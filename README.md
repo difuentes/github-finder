@@ -1,6 +1,8 @@
 ### Github Finder WebApp
-    - React 16.8+
-    - Axios
+    - React 16.8+: npx create-react-app  app-name
+    - Axios: npm i axios
+    - React Router: npm i react-router-dom
+    - Github APIs: https://api.github.com/users & https://developer.github.com/v3/search/
 
 ### How to setup
     - Clone repo
@@ -17,6 +19,7 @@
 
 ### Notes
     - Components without state are called as Stateless Functional Components. These components can be defined as functions and do not use the render method.
+    - React router must encapsulate the entire application.
 
 ### Recommended plugins for VSCode
     - Auto Rename Tag

@@ -1,5 +1,6 @@
 ### Github Finder WebApp
     - React 16.8+
+    - Axios
 
 ### How to setup
     - Clone repo

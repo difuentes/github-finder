@@ -7,6 +7,13 @@
     - npm install
     - npm start
 
+### Util commands
+    - rce: Create component structure in new file.
+    - racf: Create stateless functional component structure in new file.
+    - impt: Import PropTypes.
+    - ptar: Add PropTypes.array.isRequired to Component.propTypes.
+    - ptbr: Add PropTypes.bool.isRequired to Component.propTypes.
+
 ### Notes
     - Components without state are called as Stateless Functional Components. These components can be defined as functions and do not use the render method.
 

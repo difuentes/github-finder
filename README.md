@@ -13,6 +13,7 @@
     - impt: Import PropTypes.
     - ptar: Add PropTypes.array.isRequired to Component.propTypes.
     - ptbr: Add PropTypes.bool.isRequired to Component.propTypes.
+    - clg: Generate console.log(object).
 
 ### Notes
     - Components without state are called as Stateless Functional Components. These components can be defined as functions and do not use the render method.

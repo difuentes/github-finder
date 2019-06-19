@@ -18,15 +18,15 @@ React App to search Github Users.
 * npm install
 * npm start
 
-## Notes
-
-* Components without state are called as Stateless Functional Components. These components can be defined as functions and do not use the render method.
-* React router must encapsulate the entire application.
-
 ## Utils Links
 
 * **React Hooks**: https://ed.team/blog/introduccion-los-hooks-de-react
 * **React Context**: https://ed.team/blog/maneja-datos-en-react-sin-redux-usando-context
+
+## Notes
+
+* Components without state are called as Stateless Functional Components. These components can be defined as functions and do not use the render method.
+* React router must encapsulate the entire application.
 
 ## Recommended plugins for VSCode
 

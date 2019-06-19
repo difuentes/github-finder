@@ -18,6 +18,9 @@ React App to search Github Users.
 * npm install
 * npm start
 
+## Hooks used
+* **useState**
+
 ## Utils Links
 
 * **React Hooks**: https://ed.team/blog/introduccion-los-hooks-de-react

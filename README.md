@@ -34,8 +34,8 @@ React App to search Github Users.
 
 ## Utils Links
 
-* **React Hooks**: [a link](https://ed.team/blog/introduccion-los-hooks-de-react)
-* **React Context**: [a link](https://ed.team/blog/maneja-datos-en-react-sin-redux-usando-context)
+* **React Hooks**: https://ed.team/blog/introduccion-los-hooks-de-react
+* **React Context**: https://ed.team/blog/maneja-datos-en-react-sin-redux-usando-context
 
 ## Recommended plugins for VSCode
 

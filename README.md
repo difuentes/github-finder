@@ -1,3 +1,8 @@
+---
+React: React 16.8+
+Project Version: 1.0.0
+---
+
 ## Github Finder WebApp
 
     * React 16.8+: npx create-react-app  app-name

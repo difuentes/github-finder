@@ -20,6 +20,7 @@
 ### Notes
     - Components without state are called as Stateless Functional Components. These components can be defined as functions and do not use the render method.
     - React router must encapsulate the entire application.
+    - React Hooks: https://ed.team/blog/introduccion-los-hooks-de-react
 
 ### Recommended plugins for VSCode
     - Auto Rename Tag

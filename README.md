@@ -18,15 +18,6 @@ React App to search Github Users.
 * npm install
 * npm start
 
-## Util commands for VsCode
-
-* rce: Create component structure in new file.
-* racf: Create stateless functional component structure in new file.
-* impt: Import PropTypes.
-* ptar: Add PropTypes.array.isRequired to Component.propTypes.
-* ptbr: Add PropTypes.bool.isRequired to Component.propTypes.
-* clg: Generate console.log(object).
-
 ## Notes
 
 * Components without state are called as Stateless Functional Components. These components can be defined as functions and do not use the render method.
@@ -44,3 +35,12 @@ React App to search Github Users.
 * ES7 React/Redux/GraphQL/React-Native snippets
 * Prettier - Code formatter
 * Sublime Babel
+
+## Util commands for VsCode
+
+* rce: Create component structure in new file.
+* racf: Create stateless functional component structure in new file.
+* impt: Import PropTypes.
+* ptar: Add PropTypes.array.isRequired to Component.propTypes.
+* ptbr: Add PropTypes.bool.isRequired to Component.propTypes.
+* clg: Generate console.log(object).

@@ -57,3 +57,15 @@ React App to search Github Users.
 * ptar: Add PropTypes.array.isRequired to Component.propTypes.
 * ptbr: Add PropTypes.bool.isRequired to Component.propTypes.
 * clg: Generate console.log(object).
+
+## Prepare & deploy to Netlify
+1. Register in [Netlify](https://www.netlify.com/)
+2. Install Netlify CLI: npm i -g netlify-cli
+3. Add netlify.toml to project root
+4. Specify build folder:
+    - [build]
+        publish="build"
+5. In terminal: netlify init
+6. Give authorization to netlify CLI
+7. Follow config steps
+8. Optional: Config Environment variables in Netlify

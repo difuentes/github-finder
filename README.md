@@ -69,3 +69,6 @@ React App to search Github Users.
 6. Give authorization to netlify CLI
 7. Follow config steps
 8. Optional: Config Environment variables in Netlify
+9. If you dont set continuos deployment your follow next steps:
+    - npm run build
+    - netlify deploy --prod

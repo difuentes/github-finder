@@ -21,6 +21,7 @@ React App to search Github Users.
 ## Hooks used
 * **useState**
 * **useEffect**
+* **useContext**
 
 ## Context used
     - DIR: src/context/github

@@ -22,6 +22,11 @@ React App to search Github Users.
 * **useState**
 * **useEffect**
 
+## Context used
+    - DIR: src/context/github
+* **payload** : Property of the dispatch method that receives the data to send.
+
+
 ## Utils Links
 
 * **React Hooks**: https://ed.team/blog/introduccion-los-hooks-de-react

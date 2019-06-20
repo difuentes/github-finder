@@ -1,6 +1,7 @@
 ---
 React: React 16.8+
 Project Version: 1.0.0
+Site: [Github-Finder-Demo](https://githubfinder-traning-react.netlify.com/)
 ---
 
 React App to search Github Users.

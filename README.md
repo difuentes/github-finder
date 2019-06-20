@@ -62,9 +62,7 @@ React App to search Github Users.
 1. Register in [Netlify](https://www.netlify.com/)
 2. Install Netlify CLI: npm i -g netlify-cli
 3. Add netlify.toml to project root
-4. Specify build folder:
-    - [build]
-        publish="build"
+4. Specify build folder
 5. In terminal: netlify init
 6. Give authorization to netlify CLI
 7. Follow config steps

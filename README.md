@@ -22,9 +22,11 @@ React App to search Github Users.
 * **useState**
 * **useEffect**
 * **useContext**
+* **useReducer**
 
 ## Context used
-    - DIR: src/context/github
+    - DIR CONTEXT GITHUB: src/context/github
+    - DIR CONTEXT ALERT: src/context/alert
 * **payload** : Property of the dispatch method that receives the data to send.
 
 
@@ -37,6 +39,7 @@ React App to search Github Users.
 
 * Components without state are called as Stateless Functional Components. These components can be defined as functions and do not use the render method.
 * React router must encapsulate the entire application.
+* A context is composed of three parts: NameContext.js, NameReducer.js, NameState.js.
 
 ## Recommended plugins for VSCode
 
